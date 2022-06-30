@@ -18,11 +18,19 @@
     },
     {
       "id": 3,
-      "name": "A la Camarón",
+      "name": "Luccadson",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
       "price": "25.90",
-      "available": false,
+      "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://i.picsum.photos/id/390/200/300.jpg?hmac=m2OBPNcWKpibmpjeOD_5Bnl5rx-6WjYtzfGnleMgyhU",
+      "name": "Pão com ovo",
+      "price": "39,99",
+      "description": "O melhor prato da casa, feito pelo chefe",
+      "available": true,
+      "id": 4
     }
   ]
 }
