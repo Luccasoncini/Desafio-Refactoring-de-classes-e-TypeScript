@@ -1,5 +1,5 @@
 <h1 align="center">
-	Desafio Chapter II - Ignite Rocketseat
+	Desafio Capítulo II - Ignite Rocketseat
 </h1>
 
 <p align="center">Desafio: Refactoring de classes e TypeScript</p>
